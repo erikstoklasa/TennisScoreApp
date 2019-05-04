@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Tennis_score.iml" filepath="$PROJECT_DIR$/Tennis_score.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TennisScoreApp.iml" filepath="$PROJECT_DIR$/TennisScoreApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
